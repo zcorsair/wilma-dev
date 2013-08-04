@@ -3,8 +3,9 @@
 angular.module('laravelApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
+      'Open Source Development for W.I.L.M.A.',
+      'AngularJS FRAMEWORK',
+      'Karma TESTING',
+      'Laravel FRAMEWORK'
     ];
   });
